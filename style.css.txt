@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.color-picker-container {
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.heading {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.button-button1 {
+    border-radius: 10px;
+    border-color: black;
+    background-color: #e0e0e0;
+    color: black;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.button-button2 {
+    border-radius: 10px;
+    border-color: black;
+    background-color: #6fcf97;
+    color: black;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.button-button3 {
+    border-radius: 10px;
+    border-color: black;
+    background-color: #56ccf2;
+    color: black;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.button-button4 {
+    border-radius: 10px;
+    border-color: black;
+    background-color: #bb6bd9;
+    color: black;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.selected-color-hex-code {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: roboto;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.para {
+    color: black;
+    font-size: 13px;
+    font-family: roboto;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
